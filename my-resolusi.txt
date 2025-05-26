@@ -1,3 +1,4 @@
 MY RESOLUSI
   - Belajar front end
   - Belajar Backend
+  - full stack developer
